@@ -1597,6 +1597,7 @@ declare namespace Tabulator {
         | 'star'
         | 'select'
         | 'autocomplete'
+        | 'list'
         | ((
             cell: CellComponent,
             onRendered: EmptyCallback,
